@@ -17,5 +17,10 @@ Environment: LAMP
 6. Run php artisan serve to use the app
 7. The app will be available at http://127.0.0.1:8000
 
+I have used PHP because I am so familiar with it and also can be more productive using it.
+It is fast and efficient in my opinion.
+
+
+
 
 
